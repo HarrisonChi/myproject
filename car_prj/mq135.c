@@ -168,6 +168,6 @@ module_init(mq135_init);
 module_exit(mq135_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Harrison");
 MODULE_DESCRIPTION("MQ135 Air Quality Driver + MCP3008 Bitbang SPI (No spi.h)");
 
